@@ -2,6 +2,7 @@
 
 A small static site built with the Flask framework and Python 3 about a fictitious tour site showing various consumer tours of beautiful and sunny Jamaica. Built as part of my Python Flask web development portfolio, and to faciliate me uploading to, and testing assorted cloud providers including DigitalOcean.com, Microsoft Azure, Amazon AWS, Heroku, RedHat OpenShift, Linode.com, PythonAnywhere.com, Pivotal Cloud Foundry, Vultr.com, IMB BlueMix, and OpeNode.io  Blog article to follow much later.
 
+Live **Site Demo** ~ [Sun Island Tours](http://www.vanguardwebsolutions.com/ "Sun Island Tours ~ Memorable and family friendly eco-tours of Caribbean beaches at a friendly budget.")
 
 ![Sun Island Tours](http://ryanhunter.org/images/portfolio/scenictoronto.png)
 
