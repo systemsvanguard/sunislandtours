@@ -8,7 +8,7 @@ A small static site built with the Flask framework and Python 3 about a fictitio
 ---
 
 ## Steps to Install
-- Live Site Demo sunisland ~ [Sun Island Tours](http://www.vanguardwebsolutions.com/ "Sun Island Tours ~ Memorable and family friendly eco-tours of Caribbean beaches at a friendly budget.")
+- Live Site Demo ~ [Sun Island Tours](http://www.vanguardwebsolutions.com/ "Sun Island Tours ~ Memorable and family friendly eco-tours of Caribbean beaches at a friendly budget.")
 - git clone https://github.com/systemsvanguard/sunislandtours.git 
 - cd sunislandtours 
 - from within your activated VirtualEnv environment, or any other Python shell, install flask framework using pip
