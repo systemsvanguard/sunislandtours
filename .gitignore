@@ -1,3 +1,38 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+node_modules/
+.gatsby-context.js
+.DS_Store
+.intermediate-representation/
+.cache/
+yarn.lock
+
+# dependencies
+/node_modules
+/venv
+/worx
+/.git
+
+# Dependency directories
+node_modules/
+jspm_packages/
+.intermediate-representation/
+.cache/
+
+
+# dotenv environment variables file, system files, & misc
+.env
+.env.js
+.env.test
+.DS_Store
+Thumbs.db
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+/app/config/env.js
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
